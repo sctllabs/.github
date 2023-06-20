@@ -1,3 +1,1 @@
-## About
-
-<img src="SBP_M1.svg" width="50%">
+<img src="SBP_M1.svg" width="100%">
