@@ -1,1 +1,1 @@
-<img src="SBP_M1.svg" width="100%">
+<img src="SBP_M2.svg" width="100%">
